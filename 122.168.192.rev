@@ -1,0 +1,13 @@
+$TTL    86400
+@               IN SOA          leninatews.com. root.leninatews.com. (
+                2008111914	;Serial
+                3600            ;Refresh
+                1800            ;Retry
+                604800          ;Expire
+                86400           ;Minimum TTL
+)
+
+                IN NS            ns1.leninatews.com.
+                IN NS            ns2.leninatews.com.
+76              IN PTR           leninatews.com.     
+                                                          
